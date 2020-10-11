@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1601802259 source:c:\users\lcres\documents\ayed\tpi\sucursal.cpp
+	"sucursal.h"
+	<string>
+
+1601801718 c:\users\lcres\documents\ayed\tpi\sucursal.h
+	<string>
+
+1601801804 source:c:\users\lcres\documents\ayed\tpi\lista.cpp
+	"lista.h"
+	"sucursal.h"
+	<stdlib.h>
+	<string>
+	<iostream>
+	<fstream>
+
+1601802584 c:\users\lcres\documents\ayed\tpi\lista.h
+	"sucursal.h"
+
+1601802543 source:c:\users\lcres\documents\ayed\tpi\main.cpp
+	<iostream>
+	"sucursal.h"
+	"lista.h"
+
+1602449548 source:c:\users\wilro_000\desktop\programas roger\practicas en c++\tpi\main.cpp
+	<iostream>
+	"sucursal.h"
+	"lista.h"
+
+1602449548 c:\users\wilro_000\desktop\programas roger\practicas en c++\tpi\sucursal.h
+	<string>
+
+1602449548 c:\users\wilro_000\desktop\programas roger\practicas en c++\tpi\lista.h
+	"sucursal.h"
+
+1602449548 source:c:\users\wilro_000\desktop\programas roger\practicas en c++\tpi\sucursal.cpp
+	"sucursal.h"
+	<string>
+
+1602449548 source:c:\users\wilro_000\desktop\programas roger\practicas en c++\tpi\lista.cpp
+	"lista.h"
+	"sucursal.h"
+	<stdlib.h>
+	<string>
+	<iostream>
+	<fstream>
+
+1602449548 source:c:\users\wilro_000\downloads\tpi\tpi\lista.cpp
+	"lista.h"
+	"sucursal.h"
+	<stdlib.h>
+	<string>
+	<iostream>
+	<fstream>
+
+1602449548 c:\users\wilro_000\downloads\tpi\tpi\lista.h
+	"sucursal.h"
+
+1602449548 c:\users\wilro_000\downloads\tpi\tpi\sucursal.h
+	<string>
+
+1602449548 source:c:\users\wilro_000\downloads\tpi\tpi\main.cpp
+	<iostream>
+	"sucursal.h"
+	"lista.h"
+
+1602449548 source:c:\users\wilro_000\downloads\tpi\tpi\sucursal.cpp
+	"sucursal.h"
+	<string>
+
